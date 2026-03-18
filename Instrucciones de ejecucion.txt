@@ -1,0 +1,40 @@
+
+
+-Instalar .net (por si no lo tiene instalado): 
+
+link: https://dotnet.microsoft.com/en-us/download
+
+-Instalar riders para abrir el correo: 
+
+link: https://www.jetbrains.com/rider/download/?section=windows
+
+
+-Clonear o descargar el github
+
+-abrirlo en rider 
+
+
+-abrir terminal ctrl + ` 
+
+-ubicarse a nivel de raiz del frontend y ejecutar "npm i"
+
+-ubicarse a nivel de raiz del backend y ejecutar "npm i"
+
+
+-una vez se haya instalado en ambas carpetas las dependencias, dirigirse a la direccion de  backend/src/Ecommerce.API/Ecommerce.API y ejecutar el servidor "dotnet run"
+
+
+-luego irse a la direccion de frontend/ npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
